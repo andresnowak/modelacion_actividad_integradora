@@ -21,3 +21,4 @@ meterse a la carpeta server y ahi correr
 este es el que crea el websocket para que el unity pueda correr
 
 y para el unity es primero haber instalado todo y despues meterse a la escena llamada simulation y correr el programa.
+y en el gamemanager puede cambiar la cantidad de segundos que el programa corre.
